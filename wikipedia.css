@@ -1,0 +1,16 @@
+#mw-navigation {
+	display:none;
+}
+
+#content {
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+#mw-page-base {
+	display: none !important;
+}
+
+#mw-head-base {
+	display: none !important;
+}
